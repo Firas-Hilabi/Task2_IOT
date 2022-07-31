@@ -5,5 +5,5 @@ I used the the speech to text web page I created in the last task to connect wit
 This is done by connecting the Arduino UNO with a usb to your PC and then pressing the connect button on the webpage and choosing the correct port.
 
 
-ـــــــــــــــــــــــــــــــــــــــــــــــــــــ
-The connection is done by using the serial baudRate 9600.
+                                                                                                                ـــــــــــــــــــــــــــــــــــــــــــــــــــــ
+ The connection is done by using the serial baudRate 9600.
